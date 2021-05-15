@@ -1,0 +1,27 @@
+body{
+	margin:5%;
+	}
+
+nav a{text-decoration:none;
+	color:#116466;
+	}
+
+h1{font-style:Century;
+	text-align:center;}	
+
+h3{font-style:Century;
+	color:#66fcf1;
+}
+
+p{color:#c5c6c7;
+font-size:15pt;}
+
+li{
+color:#c5c6c7;
+font-size:15pt;
+list-style:none;}
+
+a {text-decoration:none;
+	color:gray;}
+	
+span a{text-align:right;}
