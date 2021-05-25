@@ -1,8 +1,16 @@
 body{
 	margin:5%;
+	background-color: #D1E8E2;
 	}
+
 em{
 	font-size:13pt;
+}
+nav{
+	margin: 0px;
+	padding:10px;
+	position: relative;
+	bottom:60px;
 }
 
 nav a{text-decoration:none;
@@ -13,14 +21,14 @@ h1{font-style:Century;
 	text-align:center;}	
 
 h3{font-style:Century;
-	color:#66fcf1;
+	color:#265552;
 }
 
-p{color:#c5c6c7;
+p{color:#0e1114;
 font-size:15pt;}
 
 li{
-color:#c5c6c7;
+color:#0e1114;
 font-size:15pt;
 list-style:none;}
 
@@ -28,3 +36,12 @@ a {text-decoration:none;
 	color:gray;}
 	
 span a{text-align:right;}
+
+#about{
+	position: relative;
+	bottom:30px;
+	font-size: 26px;
+	position: absolute;
+	top: 25px;
+	margin:4%;
+}
